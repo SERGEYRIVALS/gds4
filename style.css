@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    color: purple;
+}
+.dad {
+    border: 2px solid orange;
+    background-color: orange;
+}
+body {
+    background-color: yellow;
+    color: purple;
+}
+h2 {
+    color: purple;
+}
+ul {
+color: purple;
+}
+.mom {
+    border: 2px solid orange;
+    height: 300px;
+    width: 200px;
+    color: purple;
+}
+h3 {
+    text-align: center;
+    color: purple;
+}
+h5 {
+text-align: center;
+}
+
+.foof {
+    width: 125px;
+    height: 125px;
+    background-color: purple;
+    border-radius:50%;
+}
+.foof:hover {
+    background-color: orange;
+}
+a href {
+    color: red;
+}
+header {
+background-color: yellow;
+}
+.one {
+    position: relative;
+    left: 55px;
+    top: 50px;
+}
+.html {
+    position: relative;
+    left: 25px;
+    color: black;
+    top: 35px;
